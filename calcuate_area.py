@@ -10,13 +10,7 @@ print(area)
 
 
 
-
-
-
-
-
-
-
+#----------------------------------
 def calculate_area(length, width):
     if length == width:
         return "This is a square!"
