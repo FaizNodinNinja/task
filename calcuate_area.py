@@ -1,3 +1,22 @@
+# calculate the area of rectangle
+
+length = input("enter the length ")
+width = input("enter the width ")
+
+area = (lenght * breath)
+
+print(area)
+
+
+
+
+
+
+
+
+
+
+
 def calculate_area(length, width):
     if length == width:
         return "This is a square!"
